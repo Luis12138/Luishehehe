@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luishehehe
+- 👋 Hi, I’m @Luis
 - 👀 I’m interested in algorithms
 - 🌱 I’m currently learning algorithms
 - 💞️ I’m looking to collaborate on ...
